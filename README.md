@@ -1,4 +1,4 @@
-# Drowsiness_detection_CV
+# Real Time Drowsiness detection
 
 This repo contains my project for real time Drowsiness detection using computer vision. 
 

@@ -3,7 +3,6 @@
 This repo contains my project for real time Drowsiness detection using computer vision. 
 
 ## Training Dataset
-I've used MRL eye dataset which contains over 15000 images of open and closed eyes. The model is trained on 3000 images(1,500 open eyes + 1,500 closed eyes).
 
 This is the link for MRL eye dataset
 http://mrl.cs.vsb.cz/eyedataset#:~:text=Therefore%2C%20we%20introduce%20the%20MRL%20Eye%20Dataset%2C%20the,suitable%20for%20testing%20several%20features%20or%20trainable%20classifiers.

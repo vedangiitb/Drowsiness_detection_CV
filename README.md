@@ -10,3 +10,7 @@ http://mrl.cs.vsb.cz/eyedataset#:~:text=Therefore%2C%20we%20introduce%20the%20MR
 ## Working
 We first detect the face using Haarcascade frontalface detection model and then detect eyes using eye cascade model. Finally we apply our trained model on eyes to check if the eyes are closed. The model for classifying closed and open eyes is built by performing transfer learning on the MobileNet model. I've changed last 3 layers to classify closed eyes and open eyes. 
 
+
+
+https://github.com/vedangiitb/Drowsiness_detection_CV/assets/104272088/dc9bddf7-4627-4436-8634-a318b03561af
+
